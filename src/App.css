@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+h1,h2{
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.rotate:hover {
+  transform: rotate(360deg);
+  transition: 0.3s ease-in-out;
+}
+.avatar {
+  width: 300px;
+  height: 300px;
+}
+#about-me {
+  display: flex;
+  padding: 35px;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.168);
+}
+.text-important {
+  color: #1b19a5;
+  font-size: 45px;
+  text-align: center;
+}
+.user-card {
+  border: 1px solid rgba(0, 0, 0, 0.233);
+  width: 500px;
+  height: 300px;
+  margin: 15px auto;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
